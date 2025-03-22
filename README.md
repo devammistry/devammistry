@@ -18,3 +18,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devammistry&theme=dark)
 
 ---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devam-mistry-88979530b/)
+
