@@ -1,15 +1,15 @@
 ## Hi there 👋, I'm Devam
 
-*"Student of Computer Engineering, with passion and eager of expanding knowledge in any domain."*
+*"Student of Information Technology, with passion and eager of expanding knowledge in any domain."*
 
 ![Profile views](https://komarev.com/ghpvc/?username=devammistry&label=Profile%20views&color=0e75b6&style=flat) 
 
 - 🎓 I'm currently a Student at [L.J. Institute of engineering and technology](https://ljku.edu.in/program/engineering-b-e-m-e-10)
-- 🌱 I’m currently learning **Django, MERN stack, App-Designing**
-- 🤝 I’m looking to collaborate on **web technologies, Machine Learning Projects**
-- 💬 Ask me about **Python, Java, Web Development**
+- 🌱 I’m currently learning **Django, MERN stack and App-Designing**
+- 🤝 I’m looking to collaborate on **web technologies and Machine Learning Projects**
+- 💬 Ask me about **Python, Java or Web Development**
 - 📫 How to reach me: [devammistry7856@gmail.com](mailto:devammistry7856@gmail.com)
-- ⚡ Fun fact: **I love to talk about Space, Astronomy, and Nature** 
+- 🌍 Fun fact: **I love discovering new places and learning about different cultures!**
 
 ---
 
