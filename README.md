@@ -19,6 +19,6 @@
 
 ---
 
-<a href="https://www.linkedin.com/in/devam-mistry-88979530b/" target="_blank">
+<a href="https://www.linkedin.com/in/devammistry/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30">
 </a>
