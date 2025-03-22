@@ -9,7 +9,7 @@
 - 🤝 I’m looking to collaborate on **web technologies and Machine Learning Projects**
 - 💬 Ask me about **Python, Java or Web Development**
 - 📫 How to reach me: [devammistry7856@gmail.com](mailto:devammistry7856@gmail.com)
-- 🌍 Fun fact: **I love discovering new places and learning about different cultures!**
+- 🌍 Fun fact: **I love discovering new places, trying different food, and learning new languages while exploring diverse cultures!**
 
 ---
 
