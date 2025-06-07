@@ -5,9 +5,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=devammistry&label=Profile%20views&color=0e75b6&style=flat) 
 
 - 🎓 I'm currently a Student at [L.J. Institute of engineering and technology](https://ljku.edu.in/program/engineering-b-e-m-e-10)
-- 🌱 I’m currently learning **Django, MERN stack and App-Designing**
-- 🤝 I’m looking to collaborate on **web technologies and Machine Learning Projects**
-- 💬 Ask me about **Python, Java or Web Development**
+- 🌱 I’m currently learning **Django, Machine Learning, Deep Learning**
+- 🤝 I’m looking to collaborate on **Data analytical or Machine Learning Projects**
+- 💬 Ask me about **Python, Java, DSA or algorithms**
 - 📫 How to reach me: [devammistry7856@gmail.com](mailto:devammistry7856@gmail.com)
 - 🌍 **I love discovering new places, trying different cuisine, and learning new languages while exploring diverse cultures!**
 
