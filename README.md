@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **Django, Machine Learning and Deep Learning**
 - 🤝 I’m looking to collaborate on **Data analytical or Machine Learning Projects**
 - 💬 Ask me about **Python, Java, DSA or algorithms**
-- 📫 How to reach me: [devammistry7856@gmail.com](mailto:devammistry7856@gmail.com)
 - 🌍 **I love discovering new places, trying different cuisine, and learning new languages while exploring diverse cultures!**
 
 ---
