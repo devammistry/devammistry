@@ -1,8 +1,13 @@
-<!-- GitHub README starts here -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30%" alt="Animated Tech Background"/>
 </p>
-<h1 align="center" style="font-size: 2.8em; font-family: 'Poppins', sans-serif;">👋 Hi, I'm <span style="color:#FF0000;">Devam Mistry</span>!</h1>
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Nunito+Sans&size=32&color=FFFFFF&center=true&vCenter=true&width=600&height=50&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Devam+Mistry!;Welcome+to+my+GitHub+Profile!" 
+    alt="Typing SVG"
+  />
+</div>
 
 <p align="center"><em>"Student of Information Technology, with passion and eager of expanding knowledge in any domain."</em></p>
 
@@ -17,14 +22,16 @@
 - 🌍 I love discovering new places, trying different cuisine, and learning new languages while exploring diverse cultures!
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devammistry&show_icons=true&theme=radical" alt="Devam's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devammistry&layout=compact&theme=radical" alt="Devam's Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devammistry&theme=juicyfresh&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
+<div align="center">  
+  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=devammistry&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
+
+  <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=devammistry&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
+
+  <img width="300" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=devammistry&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=devammistry&theme=juicyfresh&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
 
 ---
 
