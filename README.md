@@ -33,14 +33,6 @@
   <img width="800" src="https://github-profile-trophy.vercel.app/?username=devammistry&theme=juicyfresh&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
----
-
-<p align="center">
-  <img src="https://github.com/devammistry/devammistry/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <a href="https://www.linkedin.com/in/devammistry/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
