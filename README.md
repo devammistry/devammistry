@@ -16,6 +16,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devammistry&show_icons=true&theme=dark)
 ### 📌 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devammistry&layout=compact&theme=dark)
+<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
 
 ---
 
