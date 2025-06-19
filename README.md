@@ -35,6 +35,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/devammistry/devammistry/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 <a href="https://www.linkedin.com/in/devammistry/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
