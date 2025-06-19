@@ -1,10 +1,7 @@
 <!-- GitHub README starts here -->
-
-<!-- Fancy Background -->
 <p align="center">
-  <img src="https://i.ibb.co/VYZHyGC/cyber-bg.gif" width="100%" alt="devam cyber background"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30%" alt="Animated Tech Background"/>
 </p>
-
 <h1 align="center" style="font-size: 2.8em; font-family: 'Poppins', sans-serif;">👋 Hi, I'm <span style="color:#FF0000;">Devam Mistry</span>!</h1>
 
 <p align="center"><em>"Student of Information Technology, with passion and eager of expanding knowledge in any domain."</em></p>
@@ -15,7 +12,7 @@
 
 - 🎓 I'm currently studying at [**L.J. Institute of Engineering & Technology**](https://ljku.edu.in/program/engineering-b-e-m-e-10)  
 - 📚 Currently learning: **Django**, **Machine Learning** and **Deep Learning**  
-- 🤝 Open to collaborate on: **Data Analytics**, **ML Projects** and **Backend Dev**  
+- 🤝 Open to collaborate on: **Data Analytics**, **ML Projects** or **Backend Dev**  
 - 💬 Ask me about: `Python` • `Java` • `DSA` • `Algorithms`  
 - 🌍 I love discovering new places, trying different cuisine, and learning new languages while exploring diverse cultures!
 
