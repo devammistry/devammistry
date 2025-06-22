@@ -35,6 +35,10 @@
 
 ---
 
+<img alt="Pacman Contribution Graph (Dark Mode)" src="https://raw.githubusercontent.com/devammistry/devammistry/output/pacman-contribution-graph-dark.svg" style="max-width: 100%; height: auto;">
+
+---
+
 <a href="https://www.linkedin.com/in/devammistry/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
