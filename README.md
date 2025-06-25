@@ -42,7 +42,7 @@
 
 ---
 
-<img alt="Pacman Contribution Graph (Dark Mode)" src="https://raw.githubusercontent.com/devammistry/devammistry/output/pacman-contribution-graph-dark.svg" style="max-width: 100%; height: auto;">
+![Pacman Animation](https://raw.githubusercontent.com/devammistry/devammistry/output/dist/pacman-contribution-graph.svg)
 
 ---
 
