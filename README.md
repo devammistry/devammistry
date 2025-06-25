@@ -27,6 +27,7 @@
 - 🤝 Open to collaborate on: **Data Analytics**, **ML Projects** or **Backend Dev**  
 - 💬 Ask me about: `Python` • `Java` • `DSA` • `Algorithms`  
 - 🌍 I love discovering new places, trying different cuisine, and learning new languages while exploring diverse cultures!
+- 🎶 Music isn't just a hobby — it's a full-blown addiction.
 
 ---
 
