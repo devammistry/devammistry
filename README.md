@@ -1,10 +1,15 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=230&section=header&text=Hello,%20World!&fontSize=60&animation=fadeIn&fontAlignY=30&desc=Welcome%20to%20my%20digital%20garden%20🌱&descAlignY=50&descAlign=50" width="100%" />
+</p>
+
+
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" alt="Animated Tech Background"/>
 </p>
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Nunito+Sans&size=32&color=FFFFFF&center=true&vCenter=true&width=600&height=50&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Devam+Mistry!;Welcome+to+my+GitHub+Profile!" 
+    src="https://readme-typing-svg.herokuapp.com/?font=Nunito+Sans&size=32&color=FFFFFF&center=true&vCenter=true&width=600&height=50&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Devam+Mistry!" 
     alt="Typing SVG"
   />
 </div>
@@ -14,6 +19,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devammistry&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 - 🎓 I'm currently studying at [**L.J. Institute of Engineering & Technology**](https://ljku.edu.in/program/engineering-b-e-m-e-10)  
 - 📚 Currently learning: **Django**, **Machine Learning** and **Deep Learning**  
@@ -42,3 +49,7 @@
 <a href="https://www.linkedin.com/in/devammistry/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
+</div>
