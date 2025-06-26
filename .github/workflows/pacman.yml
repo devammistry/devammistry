@@ -70,6 +70,9 @@ name: Generate pacman animation
 
 on:
   workflow_dispatch:  # Only runs manually when triggered from GitHub UI
+    push:
+      branches:
+        - main
 
 jobs:
   generate:
