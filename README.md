@@ -13,7 +13,9 @@
   />
 </div>
 
-<p align="center"><em>"Student of Information Technology, with passion and eager of expanding knowledge in any domain."</em></p>
+<h3 align="center">
+  <em>"Student of Information Technology, with passion and eager to expand knowledge in any domain."</em>
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devammistry&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
