@@ -57,9 +57,28 @@
 
 ---
 
-<a href="https://www.linkedin.com/in/devammistry/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
+
+<p align="center">
+  <a href="mailto:devammistry7856@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="Gmail" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/devammistry/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn" />
+  </a>
+
+  <a href="https://x.com/devammistry" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" height="60" alt="X (Twitter)" />
+  </a>
+
+  <a href="https://kaggle.com/devammistry" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle" height="60" alt="Kaggle" />
+  </a>
+
+  <a href="https://leetcode.com/u/devammistry/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" height="60" alt="LeetCode" />
+  </a>
+</p>
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
